@@ -1,4 +1,4 @@
-public class HelloWOrld {
+public class HelloWorld {
 
     public static boolean isPrime(int x) {
         int i = 2;
